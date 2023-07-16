@@ -118,9 +118,9 @@ button {
 @media (max-width: 576px) {
   html {
     font-size: 60%;
-    margin: 10px;
   }
   .simply-countdown > .simply-section {
     padding: 35px;
+    margin: 10px;
   }
 }
